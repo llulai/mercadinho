@@ -1,0 +1,19 @@
+{
+  "receipt_datetime": "2024-08-29T15:53:29",
+  "store": {
+    "name": "MERCADO UEMURA",
+    "cnpj": "08.838.355/0001-66",
+    "address": "RUA JARAGUA, 475, BOM RETIRO - SAO PAULO - SP"
+  },
+  "products": [
+    {
+      "idx": 1,
+      "sku": "7896006711117",
+      "description": "ARROZ BCO CAMIL",
+      "unit_price": 6.49,
+      "quantity": 1.0,
+      "quantity_measure": "UN",
+      "total_price": 6.49
+    }
+  ]
+}

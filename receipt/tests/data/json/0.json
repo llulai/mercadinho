@@ -1,0 +1,91 @@
+{
+  "receipt_datetime": "2024-07-30T18:15:43",
+  "store": {
+    "name": "SAMS CLUB BOM RETIRO",
+    "cnpj": "00.063.960/0031-16",
+    "address": "Av. Rudge, 500 Bom Retiro, Sao Paulo, SP"
+  },
+  "products": [
+    {
+      "idx": 1,
+      "sku": "7898921261890",
+      "description": "TANGERINA PCT 1KG",
+      "unit_price": 9.48,
+      "quantity": 1,
+      "quantity_measure": "UN",
+      "total_price": 9.48
+    },
+    {
+      "idx": 2,
+      "sku": "7898571520514",
+      "description": "YOR IOGURTE GREG NAT",
+      "unit_price": 23.98,
+      "quantity": 2,
+      "quantity_measure": "UN",
+      "total_price": 47.96
+    },
+    {
+      "idx": 3,
+      "sku": "200549003320",
+      "description": "MACA PINK LADY KG",
+      "unit_price": 8.98,
+      "quantity": 0.37,
+      "quantity_measure": "KG",
+      "total_price": 3.32
+    },
+    {
+      "idx": 4,
+      "sku": "200701005353",
+      "description": "MANGA PALMER KG",
+      "unit_price": 7.98,
+      "quantity": 0.67,
+      "quantity_measure": "KG",
+      "total_price": 5.35
+    },
+    {
+      "idx": 5,
+      "sku": "7891737017828",
+      "description": "SUCO LARANJA 900ML",
+      "unit_price": 19.98,
+      "quantity": 1,
+      "quantity_measure": "UN",
+      "total_price": 19.98
+    },
+    {
+      "idx": 6,
+      "sku": "3228020191349",
+      "description": "QUEIJO BRIE PRESIDEN",
+      "unit_price": 20.98,
+      "quantity": 1,
+      "quantity_measure": "UN",
+      "total_price": 20.98
+    },
+    {
+      "idx": 7,
+      "sku": "8697414120480",
+      "description": "DAMASCO SECO 500G",
+      "unit_price": 38.98,
+      "quantity": 1,
+      "quantity_measure": "UN",
+      "total_price": 38.98
+    },
+    {
+      "idx": 8,
+      "sku": "7898115750056",
+      "description": "GRANOLA TRADICIONAL",
+      "unit_price": 48.48,
+      "quantity": 1,
+      "quantity_measure": "UN",
+      "total_price": 48.48
+    },
+    {
+      "idx": 9,
+      "sku": "207148013378",
+      "description": "PAO ITALIANO MEMBERS",
+      "unit_price": 27.98,
+      "quantity": 0.478,
+      "quantity_measure": "KG",
+      "total_price": 13.37
+    }
+  ]
+}

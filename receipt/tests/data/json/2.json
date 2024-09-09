@@ -1,0 +1,46 @@
+{
+  "receipt_datetime": "2024-08-28T15:52:05",
+  "store": {
+    "name": "SAMS CLUB BOM RETIRO",
+    "cnpj": "00.063.960/0031-16",
+    "address": "Av. Rudge, 500 Bom Retiro, Sao Paulo, SP"
+  },
+  "products": [
+    {
+      "idx": 1,
+      "sku": "7894904204557",
+      "description": "LUIGUICA FININHA DEF",
+      "unit_price": 6.78,
+      "quantity": 1.0,
+      "quantity_measure": "UN",
+      "total_price": 6.78
+    },
+    {
+      "idx": 2,
+      "sku": "7893000135529",
+      "description": "SALSICHA HOT DOG 500",
+      "unit_price": 10.48,
+      "quantity": 1.0,
+      "quantity_measure": "UN",
+      "total_price": 10.48
+    },
+    {
+      "idx": 3,
+      "sku": "7896102587074",
+      "description": "PROMO PACK HEINZ KET",
+      "unit_price": 29.98,
+      "quantity": 1.0,
+      "quantity_measure": "UN",
+      "total_price": 29.98
+    },
+    {
+      "idx": 4,
+      "sku": "7896102502275",
+      "description": "MOSTARDA PICANTE HEI",
+      "unit_price": 15.48,
+      "quantity": 1.0,
+      "quantity_measure": "UN",
+      "total_price": 15.48
+    }
+  ]
+}
